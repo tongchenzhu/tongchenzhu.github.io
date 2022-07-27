@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://www.7miu.tk/tags/%E5%9B%BE%E7%89%87/</loc>
+        <lastmod>2022-07-27T03:28:25.630Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.7miu.tk/tags/%E5%B7%A5%E5%85%B7/</loc>
+        <lastmod>2022-07-27T03:28:25.630Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.7miu.tk/tags/m3u8/</loc>
         <lastmod>2022-07-22T08:35:11.576Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -116,13 +130,6 @@
 
     <url>
         <loc>https://www.7miu.tk/tags/%E6%88%AA%E5%9B%BE/</loc>
-        <lastmod>2022-07-11T01:36:29.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.7miu.tk/tags/%E5%B7%A5%E5%85%B7/</loc>
         <lastmod>2022-07-11T01:36:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -459,13 +466,6 @@
 
     <url>
         <loc>https://www.7miu.tk/tags/%E5%83%8F%E7%B4%A0/</loc>
-        <lastmod>2022-05-06T07:30:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.7miu.tk/tags/%E5%9B%BE%E7%89%87/</loc>
         <lastmod>2022-05-06T07:30:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
