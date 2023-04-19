@@ -3,14 +3,21 @@
 
 
     <url>
-        <loc>https://blog.7miu.top/tags/%E9%B9%AB%E5%B0%BE%E8%8A%BD%E8%A1%A3/</loc>
-        <lastmod>2023-04-14T04:19:34.943Z</lastmod>
+        <loc>https://blog.7miu.top/tags/%E7%A5%9E%E6%9C%A8%E9%BA%97/</loc>
+        <lastmod>2023-04-17T04:31:03.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://blog.7miu.top/tags/%E5%A5%B3%E4%BC%98/</loc>
+        <lastmod>2023-04-17T04:31:03.955Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.7miu.top/tags/%E9%B9%AB%E5%B0%BE%E8%8A%BD%E8%A1%A3/</loc>
         <lastmod>2023-04-14T04:19:34.943Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
