@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://blog.7miu.top/tags/%E5%86%99%E7%9C%9F/</loc>
+        <lastmod>2023-05-16T16:31:11.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.7miu.top/tags/%E5%A5%B3%E4%BC%98/</loc>
+        <lastmod>2023-05-16T16:31:11.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.7miu.top/tags/%E6%AF%8D%E5%A5%B3/</loc>
         <lastmod>2023-05-10T03:52:33.976Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +123,6 @@
 
     <url>
         <loc>https://blog.7miu.top/tags/%E7%A5%9E%E6%9C%A8%E9%BA%97/</loc>
-        <lastmod>2023-04-17T04:31:03.955Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.7miu.top/tags/%E5%A5%B3%E4%BC%98/</loc>
         <lastmod>2023-04-17T04:31:03.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -346,14 +353,14 @@
     </url>
 
     <url>
-        <loc>https://blog.7miu.top/tags/R15/</loc>
+        <loc>https://blog.7miu.top/tags/%E7%94%B5%E5%BD%B1/</loc>
         <lastmod>2023-02-20T08:21:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://blog.7miu.top/tags/%E7%94%B5%E5%BD%B1/</loc>
+        <loc>https://blog.7miu.top/tags/R15/</loc>
         <lastmod>2023-02-20T08:21:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -689,14 +696,14 @@
     </url>
 
     <url>
-        <loc>https://blog.7miu.top/tags/%E4%B8%BB%E9%A2%98/</loc>
+        <loc>https://blog.7miu.top/tags/worldpress/</loc>
         <lastmod>2022-07-13T07:19:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://blog.7miu.top/tags/worldpress/</loc>
+        <loc>https://blog.7miu.top/tags/%E4%B8%BB%E9%A2%98/</loc>
         <lastmod>2022-07-13T07:19:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -823,13 +830,6 @@
 
     <url>
         <loc>https://blog.7miu.top/tags/%E7%95%AA%E5%A4%96/</loc>
-        <lastmod>2022-05-09T05:52:45.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.7miu.top/tags/%E5%86%99%E7%9C%9F/</loc>
         <lastmod>2022-05-09T05:52:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
