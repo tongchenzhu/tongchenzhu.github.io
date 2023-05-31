@@ -4,6 +4,133 @@
   
     
     <entry>
+      <title>amymind 在线思维导图</title>
+      <link href="/posts/5ef44da2.html"/>
+      <url>/posts/5ef44da2.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://amymind.com/mindmap/new">amymind 在线思维导图</a></p><p>无需注册，直接使用的在线思维导图工具，可导出多种文件，图片上传可配合图片外链。</p><p><img src="https://ts1.cn.mm.bing.net/th/id/R-C.8035b5a28d8c8e7244e014049e7d2479?rik=indVQfUcSle49w&riu=http://img95.699pic.com/photo/50058/0479.jpg_wh860.jpg&ehk=ls1G8BvdnzEu8Tu70qc69GmarayuvVqzPB3YSCBY8dg=&risl=&pid=ImgRaw&r=0"></p><p><a href="https://amymind.com/mindmap/new">https://amymind.com/mindmap/new</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 思维导图 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>zbook 电子书</title>
+      <link href="/posts/c4296cab.html"/>
+      <url>/posts/c4296cab.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.37Ou5-uGAWETsjvdXczoXwHaE6?pid=ImgDet&rs=1"></p><p><a href="https://zbook.lol/">https://zbook.lol/</a></p><p><a href="https://zbook.lol/">zbook</a>可下载各类书籍，页面简洁无广告</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电子书 </tag>
+            
+            <tag> 书籍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>OwenTV 电视源</title>
+      <link href="/posts/f98a3189.html"/>
+      <url>/posts/f98a3189.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://gfs11.gomein.net.cn/T1Z7CjB7x_1RCvBVdK.jpg"></p><p>朋友们好，我是OwenTV项目的管理员，我在GitHub上发布了一个自用的电视广播直播接口，亲测把这个接口复制到直播盒子的设置里（比如FongMi影视），就可以看电视了。本接口长期维护。<br><a href="https://owen2000wy.github.io/">https://owen2000wy.github.io/</a></p><p>接口：<a href="https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt">https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt</a><br>（这个只能用来看电视。）</p><p><a href="https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json">https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json</a><br>（这个不仅可以看电视，还能搜索电影电视剧在线观看。）</p><p>接口使用方法：1.点击设定。2.点击点播，把获取到的接口地址粘贴进去，再点确定即可。</p><p>后来我又上传了另一个自用的电视广播直播接口，亲测可以用于PotPlayer和Kodi，VLC等播放器，与之前那个txt版本的接口内容相同，且长期同步维护。</p><p>接口：<a href="https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u">https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u</a></p><p>接口使用教程：<a href="http://www.kodiplayer.cn/course/2871.html">http://www.kodiplayer.cn/course/2871.html</a></p><p>再后来，经过QQ相关技术群各位大佬的耐心指导，我在原“酷云七七”Tvbox接口的基础上把电视广播直播源更换为了自用的，亲测已可用于Tvbox端，与之前那两个版本的接口内容相同，且长期同步维护。</p><p>接口：<a href="https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV2.json">https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV2.json</a></p><p>接口使用方法：1.点击设置。2.点击配置地址。3.把获取到的接口地址粘贴进去，再点确定即可。</p><p>至此，本电视广播直播接口系列终于完成了计划中的各项技术指标，大功告成！</p><p>以上三个接口我都会长期维护，敬请各位享用！谢谢朋友们！</p><p>（特别声明：接口的直播频道内容来源于网络中各位大佬，本人只是个搬运工和整合者）</p><p>附：EPG接口：</p><p>Diyp &amp; 百川：<a href="http://epg.112114.xyz/%EF%BC%8Chttp://diyp.112114.xyz/%EF%BC%8Chttp://epg.112114.eu.org/">http://epg.112114.xyz/，http://diyp.112114.xyz/，http://epg.112114.eu.org/</a></p><p>超级直播：<a href="https://epg.112114.xyz/epginfo">https://epg.112114.xyz/epginfo</a></p><p>Xml格式：<a href="https://epg.112114.xyz/pp.xml">https://epg.112114.xyz/pp.xml</a></p><p>Kodi可用：<a href="http://epg.51zmt.top:8000/e.xml">http://epg.51zmt.top:8000/e.xml</a></p><p>附2：TV客户端下载地址</p><p>Vlc：<a href="https://www.videolan.org/">https://www.videolan.org/</a></p><p>PotPlayer：<a href="http://potplayer.tv/?lang=zh_CN">http://potplayer.tv/?lang=zh_CN</a></p><p>Kodi：<a href="http://www.kodiplayer.cn/download/">http://www.kodiplayer.cn/download/</a></p><p>FongMi影视TV版：<a href="https://fatcat2023.lanzoui.com/b04dyuv7a">https://fatcat2023.lanzoui.com/b04dyuv7a</a></p><p>FongMi影视手机版：<a href="https://fatcat2023.lanzoui.com/b04dyuv9c">https://fatcat2023.lanzoui.com/b04dyuv9c</a></p><p>TVBox：<a href="https://wwxt.lanzout.com/iZaXu0uvnwpc">https://wwxt.lanzout.com/iZaXu0uvnwpc</a></p><p>DIYP影音：<a href="https://wwxt.lanzout.com/in9tu0uvnx4h">https://wwxt.lanzout.com/in9tu0uvnx4h</a></p><p>黑鸟播放器：<a href="https://wwa.lanzoui.com/i4IVjrn8b5e">https://wwa.lanzoui.com/i4IVjrn8b5e</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电视源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一个免费在线 Windows 软件下载网站</title>
+      <link href="/posts/47b81dbb.html"/>
+      <url>/posts/47b81dbb.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://www.leixue.com/uploads/2016/05/microsoft.jpg"></p><p><a href="https://www.fileeagle.com/zh-CN/windows/most-popular/">fileeagle</a><br><a href="https://www.fileeagle.com/zh-CN/windows/most-popular/">https://www.fileeagle.com/zh-CN/windows/most-popular/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>游戏天堂</title>
+      <link href="/posts/e26d613f.html"/>
+      <url>/posts/e26d613f.html</url>
+      
+        <content type="html"><![CDATA[<p>小站所有资源全部免费,一定要记好防止迷路地址：<a href="zzzz688.com">zzzz688.com</a>（ctrl+D收藏本站）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ACG </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Byoru - Jackal</title>
       <link href="/posts/d0b8da96.html"/>
       <url>/posts/d0b8da96.html</url>
