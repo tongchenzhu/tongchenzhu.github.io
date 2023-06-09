@@ -9,8 +9,15 @@
 
 
     <url>
+        <loc>https://blog.7miu.top/categories/%25E7%25A8%258B%25E5%25BA%258F/</loc>
+        <lastmod>2023-06-09T03:54:51.255Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.7miu.top/categories/ACG/</loc>
-        <lastmod>2023-06-02T03:52:53.846Z</lastmod>
+        <lastmod>2023-06-09T03:49:44.886Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -18,13 +25,6 @@
     <url>
         <loc>https://blog.7miu.top/categories/%25E7%25BD%2591%25E7%25AB%2599/</loc>
         <lastmod>2023-05-31T03:05:46.931Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.7miu.top/categories/%25E7%25A8%258B%25E5%25BA%258F/</loc>
-        <lastmod>2023-05-31T02:48:54.483Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
