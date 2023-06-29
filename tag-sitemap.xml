@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://blog.7miu.top/tags/library/</loc>
+        <lastmod>2023-06-29T01:15:07.288Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.7miu.top/tags/Z-Library/</loc>
+        <lastmod>2023-06-29T01:15:07.288Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.7miu.top/tags/%E4%B9%A6%E7%B1%8D/</loc>
+        <lastmod>2023-06-29T01:15:07.288Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.7miu.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
+        <lastmod>2023-06-29T01:15:07.288Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.7miu.top/tags/HaneAme-%E9%9B%A8%E6%B3%A2/</loc>
         <lastmod>2023-06-25T07:31:18.690Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,20 +152,6 @@
     <url>
         <loc>https://blog.7miu.top/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</loc>
         <lastmod>2023-05-31T03:05:31.575Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.7miu.top/tags/%E4%B9%A6%E7%B1%8D/</loc>
-        <lastmod>2023-05-31T03:04:58.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.7miu.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
-        <lastmod>2023-05-31T03:04:58.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -376,13 +390,6 @@
     <url>
         <loc>https://blog.7miu.top/tags/%E9%9B%B7%E7%81%AB%E5%89%A3/</loc>
         <lastmod>2023-03-16T08:21:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.7miu.top/tags/Z-Library/</loc>
-        <lastmod>2023-03-13T03:09:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
