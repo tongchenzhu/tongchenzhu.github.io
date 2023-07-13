@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Cotrans 漫画翻译器 – 直接翻译漫画上的文字，显示为中文（油猴脚本）</title>
+      <link href="/posts/9e9f09d1.html"/>
+      <url>/posts/9e9f09d1.html</url>
+      
+        <content type="html"><![CDATA[<p>Cotrans 漫画&#x2F;图片翻译器 是一款可以直接翻译漫画上的文字，并显示为中文的油猴脚本，支持 Twitter、Pixiv，可以非常方便的看漫画、看图片。</p><p>Cotrans 漫画翻译器 – 直接翻译漫画上的文字，显示为中文（油猴脚本）</p><p><img src="https://static1.appinn.com/images/202307/appinn-feature-images-2023-07-04t121736-310.jpg!o"></p><p>似乎，语言越来越不是障碍了 😂</p><p>Cotrans 漫画&#x2F;图片翻译器<br>Cotrans 实际上是开源项目 manga-image-translator 的油猴脚本实现，稍后小众软件将介绍这个项目。</p><p>支持的语言：<br>源语言(翻译前图片的语言)：中文, 日本語 (日语), 한국어 (韩语), English (英语)</p><p>目标语言(翻译后图片的语言)：简体中文, 繁體中文, 日本語, English, 한국어, Tiếng Việt, čeština, Nederlands, français, Deutsch, magyar nyelv, italiano, polski, português, limba română, русский язык, українська мова, español, Türk dili</p><p>支持的网站：<br>Pixiv 图片浏览&#x2F;全屏&#x2F;漫画阅读器 (<a href="https://pixiv.net/">https://pixiv.net/</a>)<br>Twitter 全屏 (<a href="https://twitter.com/">https://twitter.com/</a>)<br>使用简单，直接点击翻译按钮，等待图片上传、翻译、返回就行了。</p><p>支持的翻译引擎：<br>GPT-3.5<br>有道<br>百度<br>Google<br>DeepL<br>Papago<br>Sugoi &#x2F; NLLB<br>删除源文字<br>最后一个删除源文字，意思是将漫画上的文字删掉，留白，然后你可以自己添加翻译，而不是使用机器翻译。</p><p>视频演示<br>   <div style="position: relative; padding: 30% 45%;"><br>    <iframe style="        position: absolute;         width: 100%;         height: 100%;         left: 0; top: 0;"         src="//player.bilibili.com/player.html?aid=403060595&bvid=BV1dV411M7MS&cid=1184545987&page=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true"><br>    </iframe></p></div>  <p>获取 <a href="https://greasyfork.org/zh-CN/scripts/437569-cotrans-manga-image-translator-regular-edition">Greasyfork</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ACG </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 漫画 </tag>
+            
+            <tag> 漫画翻译 </tag>
+            
+            <tag> 翻译 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>（ばにぃうぉ～か～）OVA スケベエルフ探訪記 ＃1-2</title>
       <link href="/posts/83e8a85e.html"/>
       <url>/posts/83e8a85e.html</url>
