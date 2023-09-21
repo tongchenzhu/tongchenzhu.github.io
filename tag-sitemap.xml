@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://blog.7miu.top/tags/cos/</loc>
+        <lastmod>2023-09-20T08:46:17.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.7miu.top/tags/%E5%86%99%E7%9C%9F/</loc>
+        <lastmod>2023-09-20T08:46:17.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.7miu.top/tags/%E7%95%AA%E5%89%A7/</loc>
         <lastmod>2023-08-10T04:05:45.180Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -269,13 +283,6 @@
     </url>
 
     <url>
-        <loc>https://blog.7miu.top/tags/cos/</loc>
-        <lastmod>2023-05-25T07:27:49.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://blog.7miu.top/tags/%E7%BE%8E%E5%B0%91%E5%A5%B3/</loc>
         <lastmod>2023-05-25T07:27:49.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -284,13 +291,6 @@
 
     <url>
         <loc>https://blog.7miu.top/tags/%E5%8F%B0%E6%B9%BE/</loc>
-        <lastmod>2023-05-25T07:26:18.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.7miu.top/tags/%E5%86%99%E7%9C%9F/</loc>
         <lastmod>2023-05-25T07:26:18.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
