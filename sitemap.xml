@@ -3,23 +3,8 @@
 
 
     <sitemap>
-        <loc>https://blog.7miu.top/post-sitemap.xml</loc>
-        <lastmod>2024-01-04T08:34:32.141Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>https://blog.7miu.top/page-sitemap.xml</loc>
-        <lastmod>2024-04-18T05:48:18.625Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://blog.7miu.top/category-sitemap.xml</loc>
-        <lastmod>2024-01-04T08:34:32.141Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://blog.7miu.top/tag-sitemap.xml</loc>
-        <lastmod>2024-01-04T08:34:32.141Z</lastmod>
+        <lastmod>2022-04-19T07:43:56.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
